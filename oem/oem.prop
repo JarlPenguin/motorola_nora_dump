@@ -1,0 +1,10 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=ddb17
+ro.build.version.ci=16
+ro.mot.build.guid=aa8deeabc3060f6
+ro.mot.base_buildid=OPP28.44-26-17/68695
+ro.product.name=nora_retus
+ro.mot.build.oem.product=nora_retus
+ro.mot.build.customerid=retail

@@ -1,0 +1,14 @@
+# user 8.1.0 OPPS28.44-26-17-14 ddb17 release-keys
+- manufacturer: motorola
+- platform: msm8937msm8937
+- codename: nora
+- flavor: user
+- release: 8.1.0
+- id: OPPS28.44-26-17-14
+- incremental: ddb17
+- tags: release-keys
+- fingerprint: 
+- is_ab: false
+- brand: motorola
+- branch: user-8.1.0-OPPS28.44-26-17-14-ddb17-release-keys
+- repo: motorola_nora_dump
