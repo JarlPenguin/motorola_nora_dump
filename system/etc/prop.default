@@ -1,0 +1,15 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Sun May 3 01:26:22 CDT 2020
+ro.bootimage.build.date.utc=1588487182
+ro.bootimage.build.fingerprint=motorola/nora_retus/nora:8.1.0/OPPS28.44-26-17-14/ddb17:user/release-keys
+
